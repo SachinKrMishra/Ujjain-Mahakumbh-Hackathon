@@ -1,4 +1,3 @@
-# Ujjain-Mahakumbh-Hackathon
 # Ujjain Mahakumbh Hackathon – Crowd & Lost Person Finder
 
 A smart system built for **crowd monitoring, face recognition, and lost-person detection** during large-scale events like the Ujjain Mahakumbh.  
